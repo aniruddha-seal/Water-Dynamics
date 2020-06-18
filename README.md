@@ -8,5 +8,6 @@
 1. Orientational Time Correlational Function(OrientationalTimeCorrelation Function.py)
 2. Rotational Jump(Jump_AP_Hynes Defination.ipynb)
 3. Orientation of the Angles between O, H 
+
    i. m_x + m_y + m_z.ipynb
   ii. w_x + w_y + w_z.ipynb
