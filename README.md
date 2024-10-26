@@ -1,6 +1,6 @@
 # Water Dynamics Analysis in Channel Proteins
 
-This project provides tools for analyzing water molecules within channel proteins, focusing on translational and rotational dynamics.
+Tools for analyzing water molecules within channel proteins, focusing on translational and rotational dynamics.
 
 ## 1. Selection of Water in Channel
 - **Finding Channel Waters**: Identifies water molecules located within channel proteins.
