@@ -17,21 +17,9 @@ Tools for analyzing water molecules within channel proteins, focusing on transla
   - Script: `OrientationalTimeCorrelation Function.py`
 - **Angle Orientation Analysis**: Determines the orientation angles between O and H atoms.
   - Notebooks: `m_x + m_y + m_z.ipynb`, `w_x + w_y + w_z.ipynb`
-- **Rotational Jump Dynamics**: Examines rotational jump dynamics using the jump definition by Laage and Hynes.
+- **Rotational Jump Dynamics**: Examines rotational jump dynamics using the jump definition by Laage and Hynes (Laage, D., & Hynes, J. T. (2006). A molecular jump mechanism of water reorientation. Science, 311(5762), 832-835).
   - Notebook: `Jump_AP_Hynes Definition.ipynb`
 
- ```bibtex
-@article{laage2006molecular,
-  title={A molecular jump mechanism of water reorientation},
-  author={Laage, Damien and Hynes, James T},
-  journal={Science},
-  volume={311},
-  number={5762},
-  pages={832--835},
-  year={2006},
-  publisher={American Association for the Advancement of Science}
-}
- ```
 
 ## Reference
 
