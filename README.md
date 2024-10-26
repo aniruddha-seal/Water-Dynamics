@@ -3,7 +3,6 @@
 # Translational Dynamics
 1. Z Coordinate Timeseries of OW atom (Z(t) For Channel Waters.py)
 2. Self Diffussion Coefficient from Einstein's Eqn (Self Diffusion Coefficient.ipynb)
-3. Mean Square Displacement (MSD-FOR PROJECT.ipynb)
 # Rotational Dynamics
 1. Orientational Time Correlational Function (OrientationalTimeCorrelation Function.py)
 2. Rotational Jump (Jump_AP_Hynes Defination.ipynb)
