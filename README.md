@@ -1,4 +1,4 @@
-# Water Dynamics Analysis
+# Water Dynamics Analysis in Channel Proteins
 
 This project provides tools for analyzing water molecules within channel proteins, focusing on translational and rotational dynamics.
 
